@@ -2,11 +2,30 @@
 
 
 ### About Me
-I’m an **Economist** with a genuine passion for data-driven insights. 
-I have worked as a **Financial Analyst** and **Frontend Developer** in different projects.
-I enjoy working on projects that allow me to leverage my skills in **data-driven decision making** and **digital solutions**.
+### Financial Analyst & Economist | FP&A | Financial Reporting | Power BI | SQL | Python | AI & Automation
 
-Feel free to reach out for networking or collaboration opportunities!
+I’m a **Financial Analyst and Economist** with experience in **FP&A, financial reporting, forecasting, budget vs. actual analysis, financial modeling, cost optimization, and reporting process improvement**.
+
+I have worked across healthcare, industrial, education, and public-sector environments, combining financial analysis with data and automation tools.
+
+My experience includes:
+
+- Financial planning and analysis
+- Budgeting, forecasting, and variance analysis
+- Financial modeling and profitability analysis
+- Executive and management reporting
+- Power BI dashboard development
+- SQL, Python, Excel, and Power Query
+- AI-assisted financial analysis and reporting automation
+- Macroeconomic and statistical analysis
+
+I’m particularly interested in projects that combine **finance, data analytics, automation, and AI-assisted decision-making**.
+
+Open to remote opportunities in the **U.S., Canada, Europe, and LATAM**.
+
+### Featured Project
+
+[Business Valuation with AI-Assisted Financial Analysis]
 
 **Follow me on:** 
 
