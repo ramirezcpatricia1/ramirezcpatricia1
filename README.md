@@ -25,9 +25,10 @@ I’m particularly interested in projects that combine **finance, data analytics
 
 Open to remote opportunities in the **U.S., Canada, Europe, and LATAM**.
 
-### Featured Project
+### Featured Projects
 
 [Business Valuation with AI-Assisted Financial Analysis](https://github.com/ramirezcpatricia1/Business-Valuation-with-AI-Assisted-Financial-Analysis)
+
 [SQL Financial Analysis & Financial Reporting](https://github.com/ramirezcpatricia1/SQL-Financial-Analysis-Financial-Reporting-)
 
 **Follow me on:** 
