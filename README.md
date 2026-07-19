@@ -8,8 +8,6 @@ I’m a **Financial Analyst and Economist** with experience in **FP&A, financial
 
 I have worked across healthcare, industrial, education, and public-sector environments, combining financial analysis with data and automation tools.
 
-I also have frontend development experience, which allows me to build user-friendly dashboards, financial tools, and digital solutions that connect data analysis with business needs.
-
 My experience includes:
 
 - Financial planning and analysis
