@@ -10,6 +10,6 @@ Feel free to reach out for networking or collaboration opportunities!
 
 **Follow me on:** 
 
-[![Subscribe to my Newsletter](https://raw.githubusercontent.com/ramirezcpatricia1/ramirezcpatricia1/main/newsletter-badge.svg?v=3)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7323362871776579585) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramirezcpatricia1/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@patriciaramirezc1)
+[![Subscribe to my Newsletter](https://raw.githubusercontent.com/ramirezcpatricia1/ramirezcpatricia1/main/newsletter-badge.svg?v=4)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7323362871776579585) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramirezcpatricia1/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@patriciaramirezc1)
 
 
