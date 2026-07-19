@@ -29,6 +29,8 @@ Open to remote opportunities in the **U.S., Canada, Europe, and LATAM**.
 
 [SQL Financial Analysis & Financial Reporting](https://github.com/ramirezcpatricia1/SQL-Financial-Analysis-Financial-Reporting-)
 
+[Financial Performance Dashboard — Looker Studio](https://datastudio.google.com/reporting/d34d275f-8c43-48b1-bf99-e011ec3581d1/page/p_m357lh15pd)
+
 **Follow me on:** 
 
 <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7323362871776579585"><img src="https://raw.githubusercontent.com/ramirezcpatricia1/ramirezcpatricia1/main/newsletter-badge.svg?v=6" alt="Subscribe to my Newsletter" height="28"></a>
