@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="36" viewBox="0 0 230 36">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#28A745"/>
+      <stop offset="50%" stop-color="#00A6A6"/>
+      <stop offset="100%" stop-color="#0A66C2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="230" height="36" rx="6" fill="url(#gradient)"/>
+
+  <text
+    x="115"
+    y="23"
+    text-anchor="middle"
+    font-family="Verdana, Arial, sans-serif"
+    font-size="13"
+    font-weight="bold"
+    fill="#ffffff">
+    SUBSCRIBE TO MY NEWSLETTER
+  </text>
+</svg>
