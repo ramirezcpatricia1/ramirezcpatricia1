@@ -4,9 +4,7 @@
 ### About Me
 ### Financial Analyst & Economist | FP&A | Financial Reporting | Power BI | SQL | Python | AI & Automation
 
-I’m a **Financial Analyst and Economist** with experience in **FP&A, financial reporting, forecasting, budget vs. actual analysis, financial modeling, cost optimization, and reporting process improvement**.
-
-I have worked across healthcare, industrial, education, and public-sector environments, combining financial analysis with data and automation tools.
+I’m a **Financial Analyst and Economist** with experience in **FP&A, financial reporting, forecasting, budget vs. actual analysis, financial modeling, cost optimization, and reporting process improvement**. I have worked across healthcare, industrial, education, and public-sector environments, combining financial analysis with data and automation tools.
 
 My experience includes:
 
